@@ -1,2 +1,7 @@
-# Test
-This is a initial test to push the changes to AWS s3.
+# Project Title
+
+Simple test project
+
+## Description
+
+Use Action to deploy to AWS s3.
